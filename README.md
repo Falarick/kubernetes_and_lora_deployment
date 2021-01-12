@@ -127,4 +127,3 @@ Follow the next steps to scale up your entire cluster
 ## 8.Credits
 
 Thanks also to my partners @Noel_illo (Noel Ruiz Lopez) and @joedval (Jorge Valderrama) for your help :)
-A line I wrote on my local computer
